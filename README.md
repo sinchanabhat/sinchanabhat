@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sinchana
-- 👀 I’m interested in all aspects of data
-- 🌱 I’m currently pursuing Masters in Data Science
-- 💞️ I’m looking to collaborate on Deep Learning projects (Heads up if it is Multimodality and Interpretability topics in Machine Learning)
+- 👀 I’m interested in all aspects of conversational AI especially in Information Retrieval
+- 🌱 I’m currently working as Research Engineer
 - 📫 REach me via email sinchanabhat933@gmail.com
 
 <!---
